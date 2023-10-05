@@ -37,7 +37,7 @@ We asked:
 
 Our answer was clear, though disappointing. Only a fairly small percentage of subscribers were active.
 
-Since most email tools, including our own, charge based on the size of subscriber lists, we needed to strategically determine how we could remove subscribers uninterested in BUSA content, while keeping those who were active. So we launched a re-engagement campaign.
+Since most <a href="https://www.sende.io/">email tools</a>, including our own, charge based on the size of subscriber lists, we needed to strategically determine how we could remove subscribers uninterested in BUSA content, while keeping those who were active. So we launched a re-engagement campaign.
 
 We asked subscribers who had not opened an email in more than six months to click on a subscription link to avoid being removed from our list. We sent two emails with a very clear call to action — stay or go. It read, &#8220;Are You Still Interested In Receiving Our Emails?&#8221;
 
